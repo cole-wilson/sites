@@ -7,3 +7,8 @@ title: Home
 layout: default
 ---
 Set up a free personal website.
+
+
+{% for x in site.people %}
+<a href='{{x.uname}}'>{{x.yourname}}</a><br>
+{% endfor %}
