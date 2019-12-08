@@ -3,3 +3,8 @@
   pages:
     - name: About
       filename: about
+- username: cole
+  name: Cole Wilson
+  pages:
+    - name: About
+      filename: about
