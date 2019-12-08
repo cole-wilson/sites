@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head>
+<title>{{ page.title }} | Cole Wilson - Sites</title>
+</head>
+<body>
+<div id='header' style='background-color:skyblue;height:30vh;'><div style='height=10vh;background-color:black;'><div style='float:left;'><a href='/sites/{{ page.user }}'>{{ page.user }}</a></div><div style='float:right'>
+{% for i in (1..5) %}
+  <div style='float:right;'>  {{i}}  </div>
+{% endfor %}
+</div> </div><div style='height:10vh;'>{{page.title}}</div></div>
+</body></html>
