@@ -12,4 +12,4 @@ uid: cat62
 <hr>
 Liam is asking that anyone who wants to not be dead in 30 years to donate money to his cause, to buy the world. "If I buy the world, there will be significantly decreased starvation, war and much more. Cats will be fed and will always live with a lovely family.
 <hr>
-<bold><h1><a href='donate.md'>Donate to Liam</a></h1></bold>
+<bold><h1><a href='donate.html'>Donate to Liam</a></h1></bold>
