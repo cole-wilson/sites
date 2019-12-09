@@ -1,12 +1,14 @@
-- sitename: Liam Skinner
-  fullname: Liam Skinner
-  description: Description..........
-  keywords: a,b
-  url: liam
-  banner-1:
-  banner-2: 
-  uid: cat62
-  pages:
+- sitename: #Your site name.
+  fullname: #Your full name.
+  description: #Site description.
+  keywords: a,b #Keywords for Google.
+  url: liam #Put the name of your folder here.
+  banner-1: #Put the url of your first header image here.
+  banner-2: #Put the url of your second header image here.
+  comments: #Leave blank for no comments, put 'yes' for comments from GraphComments.
+  graph-comment-id: #Put your id here IF you want comments.
+  uid: cat62 #Put your unique user id here.
+  pages: #List pages here.
   - title: Home
     url: index.html
   - title: Donate
