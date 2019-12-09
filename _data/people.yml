@@ -1,12 +1,12 @@
-- sitename: #Your site name.
-  fullname: #Your full name.
-  description: #Site description.
-  keywords: a,b #Keywords for Google.
+- sitename: Liam's web #Your site name.
+  fullname: Liam Skinner #Your full name.
+  description: The really cool plan #Site description.
+  keywords: world, plan, buy, cats #Keywords for Google.
   url: liam #Put the name of your folder here.
-  banner-1: #Put the url of your first header image here.
-  banner-2: #Put the url of your second header image here.
-  comments: #Leave blank for no comments, put 'yes' for comments from GraphComments.
-  graph-comment-id: #Put your id here IF you want comments.
+  banner-1: https://upload.wikimedia.org/wikipedia/commons/6/66/An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg #Put the url of your first header image here.
+  banner-2: https://www.humanesociety.org/sites/default/files/styles/768x326/public/2018/08/kitten-440379.jpg?h=f6a7b1af&itok=vU0J0uZR #Put the url of your second header image here.
+  comments: yes #Leave blank for no comments, put 'yes' for comments from GraphComments.
+  graph-comment-id: me-is #Put your id here IF you want comments.
   uid: cat62 #Put your unique user id here.
   pages: #List pages here.
   - title: Home
