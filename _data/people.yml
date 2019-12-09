@@ -1,13 +1,16 @@
 - sitename: Liam Skinner
+  fullname: Liam Skinner
+  description: Description..........
+  keywords: a,b
   url: liam
   banner-1:
   banner-2: 
   uid: cat62
   pages:
   - title: Home
-    url: /
+    url: index.html
   - title: Donate
-    url: /donate.md
+    url: donate.md
   
 - sitename: Lila
   url: lila
@@ -16,4 +19,4 @@
   uid: soccer-11
   pages:
   - title: Home
-    url: /
+    url: index.html
