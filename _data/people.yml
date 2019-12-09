@@ -1,2 +1,10 @@
-- yourname: Liam Skinner
-  uname: liam
+- sitename: Liam Skinner
+  url: liam
+  banner-1:
+  banner-2: 
+  uid: cat62
+  pages:
+  - title: Home
+    url: /
+  - title: Donate
+    url: /donate.md
