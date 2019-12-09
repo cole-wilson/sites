@@ -8,3 +8,12 @@
     url: /
   - title: Donate
     url: /donate.md
+  
+- sitename: Lila
+  url: lila
+  banner-1:
+  banner-2: 
+  uid: soccer-11
+  pages:
+  - title: Home
+    url: /
