@@ -33,3 +33,21 @@
   pages:
   - title: Home
     url: index.html
+  ###############################################################
+- sitename: Cold Spaghetti #Your site name.
+  fullname: Cold Spaghetti #Your full name.
+  description: The really cool plan #Site description.
+  keywords: gc, gift card, cold, spaghetti, gift, card, redeem #Keywords for Google.
+  url: cold-spaghetti #Put the name of your folder here.
+  banner-1: https://i.redd.it/7ftgbub6cd811.jpg #Put the url of your first header image here.
+  banner-2: http://www.ilovemytongue.com/wp-content/uploads/2017/02/cold-pasta-with-mixed-herbs-800x416.jpg #Put the url of your second header image here.
+  comments: #Leave blank for no comments, put 'yes' for comments from GraphComments.
+  graph-comment-id: #Put your id here IF you want comments.
+  uid: gc #Put your unique user id here.
+  pages: #List pages here.
+  - title: Terms of Service
+    url: index.html
+  - title: Privacy Policy
+    url: privacy.html
+  - title: Redeem
+    url: redeem.html
