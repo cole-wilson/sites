@@ -16,14 +16,23 @@
   - title: InfoGraphic
     url: infographic.html
 ###############################################################
-- sitename: Lila
+- sitename: Soccer + More
+  fullname: Lila W.
+  description: Soccer + More is a site full of the latest soccer news, soccer project ideas, and more!
+  keywords: soccer, news, scores, ciphers, lila, w, project, football
   url: lila
-  banner-1:
-  banner-2: 
+  banner-1: https://wallpaperaccess.com/full/1150523.jpg
+  banner-2: https://images2.alphacoders.com/601/thumb-1920-601256.jpg
   uid: soccer-11
+  comments: yes #
+  graph-comment-id: soccer-more #
   pages:
-  - title: Home
+  - title: News Kickoff
     url: index.html
+  - title: About Me
+    url: about.html
+  - title: Things for Nerds
+    url: nerd.html
 ################################################################
 - sitename: Personal Websites
   url: index.html
