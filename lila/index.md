@@ -1,13 +1,10 @@
 ---
-yourname: Lila
-uname: lila
-
-title: Home
+title: News Kickoff
 layout: default
 uid: soccer-11
 ---
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="121063/"></script>
 
-
-# Lila's Website:
-## Yeet!
+https://www.fifa.com/clubworldcup/news/beghdad-bounedjah-3061828
+https://www.fifa.com/worldcup/players/player/229397/    
+https://www.fifa.com/womensworldcup/players/player/190358/
+https://www.fifa.com/confederationscup/news/y=2008/m=10/news=tickets-sale-now-926922.html
