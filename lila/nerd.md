@@ -1,6 +1,6 @@
 ---
 title: Things for Nerds
-layout: main
+layout: default
 uid: soccer-11
 ---
 > Note: If you do not like codes and ciphers, this will not be very interesting for you!
