@@ -1,3 +1,8 @@
+---
+title: Things for Nerds
+layout: main
+uid: soccer-11
+---
 > Note: If you do not like codes and ciphers, this will not be very interesting for you!
 ## Current cipher: **Beale**
 `Clue: Got a copy of the declaration of independence? Good. You'll be needing it.`
